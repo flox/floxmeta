@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "generations": {
+    "1": {
+      "path": "/nix/store/k9sb8m57habh4d6jkp8n3c0ngl0biy5l-profile",
+      "logMessage": [
+        "Generation 1: julien installed stable.nixpkgs-flox.tmux stable.nixpkgs-flox.ripgrep stable.nixpkgs-flox.exa stable.nixpkgs-flox.bat stable.nixpkgs-flox.fzf stable.nixpkgs-flox.jq stable.nixpkgs-flox.htop stable.nixpkgs-flox.direnv"
+      ],
+      "created": 1668802140,
+      "lastActive": 1668802123
+    }
+  },
+  "currentGen": "1"
+}
