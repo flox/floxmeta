@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "path": "/nix/store/s1wdpc9f2qb4h3p9sac6vimfxim96qzm-profile",
+      "logMessage": [
+        "brantley installed stable.flox.flox-prerelease stable.flox.tracelinks"
+      ],
+      "created": 1669919245,
+      "lastActive": 1669919245
+    }
+  }
+}
