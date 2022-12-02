@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "path": "/nix/store/qgdqi79hdrwpjpshsgvf5sr1fdi2812r-profile",
+      "logMessage": [
+        "brantley imported generation 1"
+      ],
+      "created": 1669977415,
+      "lastActive": 1669977415
+    }
+  }
+}
