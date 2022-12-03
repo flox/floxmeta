@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "1",
+  "currentGen": "2",
   "generations": {
     "1": {
       "path": "/nix/store/5pg0vgccl83ziclmgc6fd7ijd81g4n6w-profile",
@@ -8,7 +8,15 @@
         "brantley installed stable.flox.flox-prerelease stable.flox.tracelinks"
       ],
       "created": 1669919346,
-      "lastActive": 1669919346
+      "lastActive": 1670084635
+    },
+    "2": {
+      "path": "/nix/store/76ip42iyf8bmm9mi3nvsknaxcdkv68kf-profile",
+      "logMessage": [
+        "brantley upgraded stable.flox.flox-prerelease stable.flox.tracelinks"
+      ],
+      "created": 1670084635,
+      "lastActive": 1670084635
     }
   }
 }
