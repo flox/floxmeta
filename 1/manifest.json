@@ -1,0 +1,38 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.python310",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/pgifqi8m20lz7lgh6mnv2pk0cmnfb364-python3-3.10.8"
+      ],
+      "url": "github:flox/nixpkgs-flox/6935d944cda86ca28b1f8197a108528f47d5598c"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.quarto",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/npankgqcgnjfcgd7rb892ls1bmn9c75c-quarto-1.1.251"
+      ],
+      "url": "github:flox/nixpkgs-flox/6935d944cda86ca28b1f8197a108528f47d5598c"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.emacs",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/mss093gczy3119pssw7jx3wfnw2s8003-emacs-28.2"
+      ],
+      "url": "github:flox/nixpkgs-flox/6935d944cda86ca28b1f8197a108528f47d5598c"
+    }
+  ],
+  "version": 2
+}

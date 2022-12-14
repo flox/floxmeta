@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "path": "/nix/store/dk1z7mqwc7vcrqcj05az60rji3j9665p-profile",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.python310 stable.nixpkgs-flox.quarto stable.nixpkgs-flox.emacs"
+      ],
+      "created": 1671026913,
+      "lastActive": 1671026913
+    }
+  }
+}
