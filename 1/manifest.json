@@ -1,0 +1,16 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.openjdk8",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/csq97w5lmgavmajbc9x0nxr771qr9zkn-openjdk-8u322-ga"
+      ],
+      "url": "github:flox/nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    }
+  ],
+  "version": 2
+}

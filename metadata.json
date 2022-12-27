@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "path": "/nix/store/fil30z1nmamygw1343y77wn15d9x0x8d-profile",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.openjdk8"
+      ],
+      "created": 1672165722,
+      "lastActive": 1672165722
+    }
+  }
+}
