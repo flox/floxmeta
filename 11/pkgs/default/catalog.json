@@ -1,0 +1,157 @@
+{
+  "flox": {
+    "aarch64-darwin": {
+      "stable": {
+        "flox-prerelease": {
+          "latest": {
+            "element": {
+              "active": true,
+              "attrPath": [
+                "packages",
+                "aarch64-darwin",
+                "flox-prerelease"
+              ],
+              "storePaths": [
+                "/nix/store/kv0fqj967lhlqbxgnf4krhlnan8viqx6-flox-prerelease-0.1.0-r264-0.0.8-r130-man",
+                "/nix/store/3n0x7gq36s8arjl79yppgv9xrsgkvqvh-flox-prerelease-0.1.0-r264-0.0.8-r130"
+              ],
+              "url": "git+ssh://git@github.com/flox/floxpkgs-internal?ref=master&rev=a226427e3dd49bd663b81684e780827ce326042b"
+            },
+            "eval": {
+              "attrPath": [
+                "packages",
+                "aarch64-darwin",
+                "flox-prerelease"
+              ],
+              "drvPath": "/nix/store/0k0ibpvfyfxzicy06j8y2x2abkc1lmrn-flox-prerelease-0.1.0-r264-0.0.8-r130.drv",
+              "meta": {
+                "available": true,
+                "broken": false,
+                "insecure": false,
+                "name": "flox-prerelease-0.1.0-r264-0.0.8-r130",
+                "outputsToInstall": [
+                  "out",
+                  "man"
+                ],
+                "platforms": [
+                  "aarch64-linux",
+                  "armv5tel-linux",
+                  "armv6l-linux",
+                  "armv7a-linux",
+                  "armv7l-linux",
+                  "i686-linux",
+                  "m68k-linux",
+                  "microblaze-linux",
+                  "microblazeel-linux",
+                  "mipsel-linux",
+                  "mips64el-linux",
+                  "powerpc64-linux",
+                  "powerpc64le-linux",
+                  "riscv32-linux",
+                  "riscv64-linux",
+                  "s390-linux",
+                  "s390x-linux",
+                  "x86_64-linux",
+                  "x86_64-darwin",
+                  "i686-darwin",
+                  "aarch64-darwin",
+                  "armv7a-darwin"
+                ],
+                "position": "/nix/store/gqmiypr1rh1brxfns54b13iq3yf7yrks-source/pkgs/flox/default.nix:90",
+                "unfree": false,
+                "unsupported": false
+              },
+              "name": "flox-prerelease-0.1.0-r264-0.0.8-r130",
+              "namespace": [
+                "flox-prerelease"
+              ],
+              "outputs": {
+                "man": "/nix/store/kv0fqj967lhlqbxgnf4krhlnan8viqx6-flox-prerelease-0.1.0-r264-0.0.8-r130-man",
+                "out": "/nix/store/3n0x7gq36s8arjl79yppgv9xrsgkvqvh-flox-prerelease-0.1.0-r264-0.0.8-r130"
+              },
+              "pname": "flox-prerelease",
+              "stability": "stable",
+              "system": "aarch64-darwin",
+              "version": "0.1.0-r264-0.0.8-r130"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-darwin",
+                "stable",
+                "flox-prerelease"
+              ],
+              "originalUrl": "flake:flox",
+              "storePaths": [
+                "/nix/store/dgx0rhw9vk5k7s8iwmv37qzhvcfka93m-flox-prerelease-0.1.0-r264-0.0.8-r130"
+              ],
+              "url": "flake:flox/a61c87621cd9f587e6e797026a5fad9bb1a29d7f"
+            }
+          }
+        },
+        "tracelinks": {
+          "latest": {
+            "element": {
+              "active": true,
+              "attrPath": [
+                "packages",
+                "aarch64-darwin",
+                "tracelinks"
+              ],
+              "storePaths": [
+                "/nix/store/9ifhl3cwldw4xd0hiq5g7f5lqh5qqnfl-tracelinks-1.0.0-r8"
+              ],
+              "url": "git+ssh://git@github.com/flox/floxpkgs?ref=master&rev=5aeefa991cab5dc6c5cebe3ba04ba88aaf321aa0"
+            },
+            "eval": {
+              "attrPath": [
+                "packages",
+                "aarch64-darwin",
+                "tracelinks"
+              ],
+              "drvPath": "/nix/store/2hdcg3nxllh0af6xid5lx5cd4fqqs5sr-tracelinks-1.0.0-r8.drv",
+              "meta": {
+                "available": true,
+                "broken": false,
+                "insecure": false,
+                "name": "tracelinks-1.0.0-r8",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/2ypa5b2dkgvjfhhl0ak3xlxinabd9vs5-source/pkgs/tracelinks/default.nix:4",
+                "unfree": false,
+                "unsupported": false
+              },
+              "name": "tracelinks-1.0.0-r8",
+              "namespace": [
+                "tracelinks"
+              ],
+              "outputs": {
+                "out": "/nix/store/9ifhl3cwldw4xd0hiq5g7f5lqh5qqnfl-tracelinks-1.0.0-r8"
+              },
+              "pname": "tracelinks",
+              "stability": "stable",
+              "system": "aarch64-darwin",
+              "version": "1.0.0-r8"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-darwin",
+                "stable",
+                "tracelinks"
+              ],
+              "originalUrl": "flake:flox",
+              "storePaths": [
+                "/nix/store/apm4ijs9yzg37sxyqnm8k9jk0rh0a4nb-tracelinks-1.0.0-r8"
+              ],
+              "url": "flake:flox/a61c87621cd9f587e6e797026a5fad9bb1a29d7f"
+            }
+          }
+        }
+      }
+    }
+  }
+}
