@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "9",
+  "currentGen": "10",
   "generations": {
     "1": {
       "path": "/nix/store/2n84irdinpzxphm7q5nb15p4g5wvnqw5-profile",
@@ -73,7 +73,16 @@
         "brantley upgraded "
       ],
       "created": 1674165712,
-      "lastActive": 1674165712,
+      "lastActive": 1674490840,
+      "version": 2
+    },
+    "10": {
+      "path": "/nix/store/2j0mczp7hp9z1wsrb7jijyi38jqr2jqw-floxShell",
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "created": 1674490840,
+      "lastActive": 1674490840,
       "version": 2
     }
   }
