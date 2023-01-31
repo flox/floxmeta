@@ -1,138 +1,147 @@
 {
-  "version": 1,
-  "currentGen": "16",
+  "currentGen": "17",
   "generations": {
     "1": {
-      "path": "/nix/store/qgdqi79hdrwpjpshsgvf5sr1fdi2812r-profile",
+      "created": 1669977415,
+      "lastActive": 1670084589,
       "logMessage": [
         "brantley imported generation 1"
       ],
-      "created": 1669977415,
-      "lastActive": 1670084589
-    },
-    "2": {
-      "path": "/nix/store/1kphm58vqw0s2pw41v623nml5b7w7x92-profile",
-      "logMessage": [
-        "brantley upgraded stable.flox.flox stable.flox.tracelinks"
-      ],
-      "created": 1670084589,
-      "lastActive": 1670174160
-    },
-    "3": {
-      "path": "/nix/store/n78mkzxvwjh7yy4b2sjrljh416rg6i9r-profile",
-      "logMessage": [
-        "brantley upgraded "
-      ],
-      "created": 1670174160,
-      "lastActive": 1670174267
-    },
-    "4": {
-      "path": "/nix/store/p29h8zk7jiyb13iy6izw2zifl87fjvh4-profile",
-      "logMessage": [
-        "brantley upgraded "
-      ],
-      "created": 1670174267,
-      "lastActive": 1670179735
-    },
-    "5": {
-      "path": "/nix/store/mjw3jbgmdqljf4hxhm008j1zc9iw4wbk-profile",
-      "logMessage": [
-        "brantley upgraded "
-      ],
-      "created": 1670179735,
-      "lastActive": 1670180722
-    },
-    "6": {
-      "path": "/nix/store/6xh2ivsi45rw42kmhgps6lidayd5hx9a-profile",
-      "logMessage": [
-        "brantley upgraded "
-      ],
-      "created": 1670180722,
-      "lastActive": 1670183547
-    },
-    "7": {
-      "path": "/nix/store/ymzmj46prw33139n8sz0wvsz6szh1dy4-profile",
-      "logMessage": [
-        "brantley upgraded "
-      ],
-      "created": 1670183547,
-      "lastActive": 1670370915
-    },
-    "8": {
-      "path": "/nix/store/a96dnhvbx13g6hdrgrdl9zmmbz5kbn57-profile",
-      "logMessage": [
-        "brantley upgraded "
-      ],
-      "created": 1670370915,
-      "lastActive": 1670452829
-    },
-    "9": {
-      "path": "/nix/store/rmdv9zapw5nph31b7hd99h84q6awqpcq-profile",
-      "logMessage": [
-        "brantley upgraded "
-      ],
-      "created": 1670452829,
-      "lastActive": 1672257478
+      "path": "/nix/store/qgdqi79hdrwpjpshsgvf5sr1fdi2812r-profile"
     },
     "10": {
-      "path": "/nix/store/mbqjqn0wd6bmr0ayjzgpwqy88hm7vf61-profile",
+      "created": 1672257478,
+      "lastActive": 1672483670,
       "logMessage": [
         "brantley upgraded "
       ],
-      "created": 1672257478,
-      "lastActive": 1672483670
+      "path": "/nix/store/mbqjqn0wd6bmr0ayjzgpwqy88hm7vf61-profile"
     },
     "11": {
-      "path": "/nix/store/11gmgfxxrcklja88rz3z9zlpvbcvy180-profile",
+      "created": 1672483670,
+      "lastActive": 1673113664,
       "logMessage": [
         "brantley upgraded "
       ],
-      "created": 1672483670,
-      "lastActive": 1673113664
+      "path": "/nix/store/11gmgfxxrcklja88rz3z9zlpvbcvy180-profile"
     },
     "12": {
-      "path": "/nix/store/2swxh95b7s71spj4cvhks9vn40210gz1-profile",
+      "created": 1673113664,
+      "lastActive": 1674165567,
       "logMessage": [
         "brantley upgraded "
       ],
-      "created": 1673113664,
-      "lastActive": 1674165567
+      "path": "/nix/store/2swxh95b7s71spj4cvhks9vn40210gz1-profile"
     },
     "13": {
-      "path": "/nix/store/pn1c3mmzrrh8mikas3f69qfzh0i3mwzs-floxShell",
+      "created": 1674165567,
+      "lastActive": 1674490756,
       "logMessage": [
         "brantley converted to 0.0.8 floxmeta schema"
       ],
-      "created": 1674165567,
-      "lastActive": 1674490756,
+      "path": "/nix/store/pn1c3mmzrrh8mikas3f69qfzh0i3mwzs-floxShell",
       "version": 2
     },
     "14": {
-      "path": "/nix/store/8cfz6if63dw02aw4nxn93yvmv2vi5fbp-floxShell",
+      "created": 1674490756,
+      "lastActive": 1674816414,
       "logMessage": [
         "brantley upgraded stable.flox.flox"
       ],
-      "created": 1674490756,
-      "lastActive": 1674816414,
+      "path": "/nix/store/8cfz6if63dw02aw4nxn93yvmv2vi5fbp-floxShell",
       "version": 2
     },
     "15": {
-      "path": "/nix/store/8z911nri66l6l5z8268dhh7f89mw2wri-floxShell",
+      "created": 1674816414,
+      "lastActive": 1674890433,
       "logMessage": [
         "brantley upgraded "
       ],
-      "created": 1674816414,
-      "lastActive": 1674890433,
+      "path": "/nix/store/8z911nri66l6l5z8268dhh7f89mw2wri-floxShell",
       "version": 2
     },
     "16": {
-      "path": "/nix/store/c2v10k3vf3jpcm5p0i4jfshlhvwlv4pf-floxShell",
+      "created": 1674890433,
+      "lastActive": 1675182980,
       "logMessage": [
         "brantley upgraded "
       ],
-      "created": 1674890433,
-      "lastActive": 1674890433,
+      "path": "/nix/store/c2v10k3vf3jpcm5p0i4jfshlhvwlv4pf-floxShell",
       "version": 2
+    },
+    "17": {
+      "created": 1675182980,
+      "lastActive": 1675182980,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/pb350nz053j3qhh19svw3vm6nz1lzr70-floxShell",
+      "version": 2
+    },
+    "2": {
+      "created": 1670084589,
+      "lastActive": 1670174160,
+      "logMessage": [
+        "brantley upgraded stable.flox.flox stable.flox.tracelinks"
+      ],
+      "path": "/nix/store/1kphm58vqw0s2pw41v623nml5b7w7x92-profile"
+    },
+    "3": {
+      "created": 1670174160,
+      "lastActive": 1670174267,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/n78mkzxvwjh7yy4b2sjrljh416rg6i9r-profile"
+    },
+    "4": {
+      "created": 1670174267,
+      "lastActive": 1670179735,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/p29h8zk7jiyb13iy6izw2zifl87fjvh4-profile"
+    },
+    "5": {
+      "created": 1670179735,
+      "lastActive": 1670180722,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/mjw3jbgmdqljf4hxhm008j1zc9iw4wbk-profile"
+    },
+    "6": {
+      "created": 1670180722,
+      "lastActive": 1670183547,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/6xh2ivsi45rw42kmhgps6lidayd5hx9a-profile"
+    },
+    "7": {
+      "created": 1670183547,
+      "lastActive": 1670370915,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/ymzmj46prw33139n8sz0wvsz6szh1dy4-profile"
+    },
+    "8": {
+      "created": 1670370915,
+      "lastActive": 1670452829,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/a96dnhvbx13g6hdrgrdl9zmmbz5kbn57-profile"
+    },
+    "9": {
+      "created": 1670452829,
+      "lastActive": 1672257478,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/rmdv9zapw5nph31b7hd99h84q6awqpcq-profile"
     }
-  }
+  },
+  "version": 1
 }
