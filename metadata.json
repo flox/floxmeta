@@ -1,42 +1,51 @@
 {
-  "version": 1,
-  "currentGen": "4",
+  "currentGen": "5",
   "generations": {
     "1": {
-      "path": "/nix/store/acwnvmcqghanmphvhlkmmkdjvs016189-floxShell",
+      "created": 1674770866,
+      "lastActive": 1674778335,
       "logMessage": [
         "brantley installed stable.flox.flox-prerelease stable.flox.tracelinks"
       ],
-      "created": 1674770866,
-      "lastActive": 1674778335,
+      "path": "/nix/store/acwnvmcqghanmphvhlkmmkdjvs016189-floxShell",
       "version": 2
     },
     "2": {
-      "path": "/nix/store/6497siakk1dvhcqxwwbph9ldgzzp6bz5-floxShell",
+      "created": 1674778335,
+      "lastActive": 1674890335,
       "logMessage": [
         "brantley upgraded "
       ],
-      "created": 1674778335,
-      "lastActive": 1674890335,
+      "path": "/nix/store/6497siakk1dvhcqxwwbph9ldgzzp6bz5-floxShell",
       "version": 2
     },
     "3": {
-      "path": "/nix/store/lzbkwbwzh2wa5ly3ww6a421irbns66ws-floxShell",
+      "created": 1674890335,
+      "lastActive": 1675182877,
       "logMessage": [
         "brantley upgraded "
       ],
-      "created": 1674890335,
-      "lastActive": 1675182877,
+      "path": "/nix/store/lzbkwbwzh2wa5ly3ww6a421irbns66ws-floxShell",
       "version": 2
     },
     "4": {
-      "path": "/nix/store/df8705vgi4s9r9ikxzwrcbrx7s4sncqv-floxShell",
+      "created": 1675182877,
+      "lastActive": 1675328122,
       "logMessage": [
         "brantley upgraded "
       ],
-      "created": 1675182877,
-      "lastActive": 1675182877,
+      "path": "/nix/store/df8705vgi4s9r9ikxzwrcbrx7s4sncqv-floxShell",
+      "version": 2
+    },
+    "5": {
+      "created": 1675328122,
+      "lastActive": 1675328122,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/ldym6yvz1w6ihjbciw19qlmhzbanhcdp-floxShell",
       "version": 2
     }
-  }
+  },
+  "version": 1
 }
