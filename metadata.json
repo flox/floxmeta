@@ -1,5 +1,5 @@
 {
-  "currentGen": "6",
+  "currentGen": "7",
   "generations": {
     "1": {
       "created": 1674770866,
@@ -48,11 +48,20 @@
     },
     "6": {
       "created": 1675705372,
-      "lastActive": 1675705372,
+      "lastActive": 1675769549,
       "logMessage": [
         "brantley upgraded "
       ],
       "path": "/nix/store/8h02z36bg9ayv69llmvg6gzf1il7avgz-floxShell",
+      "version": 2
+    },
+    "7": {
+      "created": 1675769549,
+      "lastActive": 1675769549,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/4y049ii2j627xk54rzarzd8x2mgbjqyn-floxShell",
       "version": 2
     }
   },
