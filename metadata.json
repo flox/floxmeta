@@ -1,5 +1,5 @@
 {
-  "currentGen": "9",
+  "currentGen": "10",
   "generations": {
     "1": {
       "created": 1674770962,
@@ -8,6 +8,15 @@
         "brantley installed stable.flox.flox stable.flox.tracelinks"
       ],
       "path": "/nix/store/2grvg1kyln96hncnbfppmdmfy6h9fkxw-floxShell",
+      "version": 2
+    },
+    "10": {
+      "created": 1680893872,
+      "lastActive": 1680893872,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/ywl4498q08k24zw15dl020bk9yli11hm-floxShell",
       "version": 2
     },
     "2": {
@@ -75,7 +84,7 @@
     },
     "9": {
       "created": 1680441292,
-      "lastActive": 1680441292,
+      "lastActive": 1680893872,
       "logMessage": [
         "brantley upgraded "
       ],
