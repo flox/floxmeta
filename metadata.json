@@ -1,5 +1,5 @@
 {
-  "currentGen": "43",
+  "currentGen": "44",
   "generations": {
     "1": {
       "created": 1674770866,
@@ -336,11 +336,20 @@
     },
     "43": {
       "created": 1686688882,
-      "lastActive": 1686688882,
+      "lastActive": 1686699742,
       "logMessage": [
         "floxem upgraded "
       ],
       "path": "/nix/store/k7in79yj4gznk737v1jdmqd9f0ii69jr-floxShell",
+      "version": 2
+    },
+    "44": {
+      "created": 1686699742,
+      "lastActive": 1686699742,
+      "logMessage": [
+        "floxem upgraded "
+      ],
+      "path": "/nix/store/lh4zl71x2qgi4gsvcpdlfrrhmrzay54j-floxShell",
       "version": 2
     },
     "5": {
