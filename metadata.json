@@ -1,5 +1,5 @@
 {
-  "currentGen": "79",
+  "currentGen": "80",
   "generations": {
     "1": {
       "created": 1669919908,
@@ -678,7 +678,7 @@
     },
     "79": {
       "created": 1687428063,
-      "lastActive": 1687428063,
+      "lastActive": 1687435266,
       "logMessage": [
         "floxem upgraded "
       ],
@@ -692,6 +692,15 @@
         "brantley upgraded "
       ],
       "path": "/nix/store/8qrw9l57wzlxgrji03ayzy2a5kxf9jnn-profile"
+    },
+    "80": {
+      "created": 1687435266,
+      "lastActive": 1687435266,
+      "logMessage": [
+        "floxem upgraded "
+      ],
+      "path": "/nix/store/f617hrpqgqja0xcd3sllppydcj6hwgbs-floxShell",
+      "version": 2
     },
     "9": {
       "created": 1671744479,
