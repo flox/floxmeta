@@ -1,0 +1,26 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-darwin.stable.flox-prerelease",
+      "originalUrl": "flake:flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/kys6qziajxbm770144y0rm1v2ij6syv6-flox-prerelease-0.2.3-r543",
+        "/nix/store/1kym1rs9p0iizbyz0pzs2kbvh4l5vx91-flox-prerelease-0.2.3-r543-man"
+      ],
+      "url": "flake:flox/7df34f186e0a93cc45f8d08c85705c2e18f2ef10"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-darwin.stable.tracelinks",
+      "originalUrl": "flake:flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/kchzih45rwn8psdr0rbm2crn4n82236y-tracelinks-1.0.0-r11"
+      ],
+      "url": "flake:flox/7df34f186e0a93cc45f8d08c85705c2e18f2ef10"
+    }
+  ],
+  "version": 2
+}
