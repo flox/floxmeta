@@ -1,0 +1,15 @@
+{
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "created": 1690456841,
+      "lastActive": 1690456841,
+      "logMessage": [
+        "brantley installed stable.flox.flox-gitforge stable.flox.tracelinks"
+      ],
+      "path": "/nix/store/dmqmay8dsmcnvj7rgv3hsqfvj32nxf5b-floxShell",
+      "version": 2
+    }
+  },
+  "version": 1
+}
