@@ -1,13 +1,22 @@
 {
-  "currentGen": "1",
+  "currentGen": "2",
   "generations": {
     "1": {
       "created": 1690453485,
-      "lastActive": 1690453485,
+      "lastActive": 1690456784,
       "logMessage": [
         "brantley installed stable.flox.flox-gitforge stable.flox.tracelinks"
       ],
       "path": "/nix/store/lwsbj8jpbglkxc9ya1vrza2nv73cpszw-floxShell",
+      "version": 2
+    },
+    "2": {
+      "created": 1690456784,
+      "lastActive": 1690456784,
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "path": "/nix/store/mn2v3a7r6bd0sgvip31x02mzy5aa11cv-floxShell",
       "version": 2
     }
   },
