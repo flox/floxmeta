@@ -1,5 +1,5 @@
 {
-  "currentGen": "9",
+  "currentGen": "8",
   "generations": {
     "1": {
       "created": 1690456841,
@@ -75,7 +75,7 @@
     },
     "9": {
       "created": 1691061961,
-      "lastActive": 1691061961,
+      "lastActive": 1691079571,
       "logMessage": [
         "brantley upgraded "
       ],
